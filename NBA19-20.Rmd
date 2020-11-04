@@ -377,7 +377,7 @@ ggplot(nba1920,aes(x = FieldGoalsAttempted, y = TotalPoints)) + geom_point(color
   ylab("Total Points") + theme(plot.title = element_text(face = "bold"))
 ```
 
-Also, below is the interactive plot with ggPredict() for this simple linear regression.
+Also, below is the interactive plot with ggPredict() for this simple linear regression. Note that Rmd / md file doesn't support the interactive plot, so please use R script for this part.
 ```{r}
 library(ggiraph)
 library(ggiraphExtra)
