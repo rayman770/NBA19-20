@@ -8,7 +8,7 @@
 This project talks about NBA 19-20 using RStudio package
 ‘SportsAnalytics’. Although some steps focus on only certain players or a team (Lakers, the champion of 19-20), it basically covers the whole league as well such as ranking by division/conference and comparing statistics. Please note that this project is meant to apply various R skills to the real world dataset rather than trying to professionally analyze basketball sports.
 
-## Brief description of each step
+## Brief Description of Each Step
 
 1)  Loading the season data and extracting some meaningful statistics
     (field goals made, three points made, free throws made, total
@@ -38,7 +38,7 @@ This project talks about NBA 19-20 using RStudio package
 
 6)  Simple Linear Regression Analysis
 
-## Skills used in the project
+## Skills Used in the Project
 
 - Data Wrangling
 - Text Preprocessing
